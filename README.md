@@ -6,7 +6,8 @@ I'm Martônio Júnior, a developer with a decade of programming experience in ma
 
 ### Swift
 - [swift-chance](https://github.com/MartonioJunior/swift-chance): Reimplementation of Chance in Swift.
-- [trinkets-swift](https://github.com/MartonioJunior/trinkets-swift): Evolution of Trinkets, inspired by Foundation's Unit system. 
+- [swift-molecules](https://github.com/MartonioJunior/swift-molecules): Micro pacakge for using value types as reference types.
+- [trinkets-swift](https://github.com/MartonioJunior/trinkets-swift): Evolution of Trinkets, inspired by Foundation's Unit system.
 
 ### Apple Platforms
 Some of the projects I've worked on by myself:
