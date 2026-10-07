@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martônio Júnior, a developer with a decade of programming experience in many different languages and environments who specializes in Swift, Apple Platforms and Unity.
+I'm Martônio Júnior, a developer with a decade of programming experience as an Independent Developer who specializes in Swift, Apple Platforms and Unity.
 
 ## ⭐️ Highlights
 
