@@ -11,7 +11,7 @@ I'm Martônio Júnior, a developer with a decade of programming experience in ma
 - [Minimal](https://github.com/MartonioJunior/Minimal): Utilities for functional programming.
 - [Shades](https://github.com/MartonioJunior/Shades): Toolbox of graphics-related utilities.
 - [swift-bytecode](https://github.com/MartonioJunior/swift-bytecode): A generics-based implementation of the Bytecode pattern in Swift with support for Stack and Register-based approaches.
-- [swift-chance](https://github.com/MartonioJunior/swift-chance): Reimplementation of Chance in Swift.
+- [swift-chance](https://github.com/MartonioJunior/swift-chance): Package containing ramdomness utilities on top of PointFree's swift-gen.
 - [swift-evaluation](https://github.com/MartonioJunior/swift-evaluation): Toolbox of testing-based utilities (mostly focused around Swift Testing).
 - [swift-memento](https://github.com/MartonioJunior/swift-memento): Micro package implementation of the Memeto pattern in Swift.
 - [swift-molecules](https://github.com/MartonioJunior/swift-molecules): Micro pacakge for using value types as reference types.
