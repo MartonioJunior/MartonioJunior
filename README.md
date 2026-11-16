@@ -15,7 +15,7 @@ I'm Martônio Júnior, a developer with a decade of programming experience who s
 - [swift-evaluation](https://github.com/MartonioJunior/swift-evaluation): Toolbox of testing-based utilities (mostly focused around Swift Testing).
 - [swift-memento](https://github.com/MartonioJunior/swift-memento): Micro package implementation of the Memeto pattern in Swift.
 - [swift-molecules](https://github.com/MartonioJunior/swift-molecules): Micro pacakge for using value types as reference types.
-- [swift-multicast-delegate](https://github.com/MartonioJunior/swift-multicast-delegate): Micro-package generics-based implementation of the Multicast Delegate pattern in Swift.
+- [swift-recado](https://github.com/MartonioJunior/swift-recado): Generics-based implementation of object messaging approaches (Multicast Delegate, Pub-Sub).
 - [swift-trinkets](https://github.com/MartonioJunior/trinkets-swift): Collection of custom patterns for implementing gameplay features (includes a partial reimplementation of Apple's Measurement API using static units)
 - [swift-variety](https://github.com/MartonioJunior/swift-variety): Small package to improve ergonomics of working with heterogeneous structures in Swift in a type-safe manner.
 
